@@ -213,20 +213,51 @@ CRUD operations · Student management · Class scheduling · Responsive UI.
 
 <h2>🏆 Hackathons</h2>
 
-```yaml
-✅ ET Hackathon : 2026
+## 🏆 Hackathons
 
-Focus:
-  - Full-stack Development
-  - AI & Team Collaboration
-  - Rapid Prototyping
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="650">
+
+<div align="center">
+
+### 🏆 Hackathons
+
+| | |
+|:---:|:---:|
+| ✅ **ET Hackathon** | **Economic Times • 2026** |
+
+<br>
+
+**Focus**
+
+• Full-Stack Development  
+• AI & Team Collaboration  
+• Rapid Prototyping
+
+<br>
 
 Always looking for the next challenge — reach out to team up!
 
 <br><br>
 
-[![Collab](https://img.shields.io/badge/LET'S_COLLABORATE-1a6aad?style=for-the-badge&logo=github&logoColor=white)](mailto:shindegayatri745@gmail.com)
+<a href="https://github.com/shindegayatri745">
+<img src="https://img.shields.io/badge/LET'S_COLLABORATE-1a6aad?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/gayatri-sanjay-shinde/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:shindegayatri745@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -235,11 +266,6 @@ Always looking for the next challenge — reach out to team up!
 </table>
 
 </div>
-
-</td>
-</tr>
----
-
 ## 🏅 Certifications
 
 <div align="center">
