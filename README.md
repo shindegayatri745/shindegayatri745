@@ -229,13 +229,10 @@ CRUD operations · Student management · Class scheduling · Responsive UI.
 
 <b>Focus</b>
 
-<br><br>
-
 • Full-Stack Development<br>
 • AI & Team Collaboration<br>
 • Rapid Prototyping
 
-<br><br>
 
 Always looking for the next challenge — reach out to team up!
 
