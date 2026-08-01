@@ -211,6 +211,8 @@ CRUD operations · Student management · Class scheduling · Responsive UI.
 
 </div>
 
+## 🏆 Hackathons
+
 <div align="center">
 
 <table>
@@ -221,32 +223,28 @@ CRUD operations · Student management · Class scheduling · Responsive UI.
 
 <hr>
 
-<div style="font-size:16px;">
+```yaml
+✅ ET Hackathon : Economic Times 2026
 
-✅ <b>ET Hackathon</b> • <b>Economic Times 2026</b>
-
-<br><br>
-
-<b>Focus</b>
-
-• Full-Stack Development<br>
-• AI & Team Collaboration<br>
-• Rapid Prototyping
-
+Focus:
+   - Full-Stack Development
+   - AI & Team Collaboration
+   - Rapid Prototyping
+```
 
 Always looking for the next challenge — reach out to team up!
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/gayatri-sanjay-shinde">
-<img src="https://img.shields.io/badge/LET'S_COLLABORATE-1a6aad?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="mailto:shindegayatri745@gmail.com?subject=Collaboration">
+<img src="https://img.shields.io/badge/LET'S_COLLABORATE-1a6aad?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 </div>
 ## 🏅 Certifications
