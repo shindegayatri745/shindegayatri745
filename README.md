@@ -130,13 +130,15 @@ print(me.get_quote())
 
 <div align="center">
 
-<table border="0" cellpadding="16">
+<table>
 <tr>
+
 <td width="50%" valign="top" align="center">
 
 ## 💃 Nritya Sadhana – Bharatanatyam Learning Platform
 
 AI-ready mobile application for Bharatanatyam students to practice, track progress, and connect with teachers.
+
 Practice tracking · Progress analytics · Teacher feedback · React Native.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -153,6 +155,7 @@ Practice tracking · Progress analytics · Teacher feedback · React Native.
 ## ✅ Todo Application – Task Management System
 
 Spring Boot web application for managing daily tasks with a clean and responsive interface.
+
 CRUD operations · Spring MVC · PostgreSQL · Thymeleaf.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -165,11 +168,16 @@ CRUD operations · Spring MVC · PostgreSQL · Thymeleaf.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top" align="center">
 
 ## 📚 StudyBuddy – AI-Powered Adaptive Learning Platform
 
 Full-stack AI learning platform providing personalized study plans, quizzes, and recommendations.
+
 Google Gemini AI · Adaptive quizzes · Analytics dashboard · Cloud deployment.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -187,6 +195,7 @@ Google Gemini AI · Adaptive quizzes · Analytics dashboard · Cloud deployment.
 ## 💃 Dance Academy Management Website
 
 Responsive web-based management system for dance academies with student and class administration.
+
 CRUD operations · Student management · Class scheduling · Responsive UI.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -196,18 +205,11 @@ CRUD operations · Student management · Class scheduling · Responsive UI.
 [![View Repository](https://img.shields.io/badge/View_Repository-%230d0b14?style=for-the-badge&logo=github&logoColor=white&labelColor=1a6aad)](https://github.com/shindegayatri745/Dance-Academy-Registration-System)
 
 </td>
+
 </tr>
+</table>
 
-<tr>
-<td colspan="2" align="center">
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="500">
-
-<div style="border:1px solid #30363d; border-radius:12px; padding:25px; background-color:#0d1117;">
+</div>
 
 <h2>🏆 Hackathons</h2>
 
