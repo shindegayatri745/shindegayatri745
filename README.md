@@ -247,17 +247,6 @@ Always looking for the next challenge — reach out to team up!
 <img src="https://img.shields.io/badge/LET'S_COLLABORATE-1a6aad?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/gayatri-sanjay-shinde/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:shindegayatri745@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </div>
 
