@@ -211,30 +211,46 @@ CRUD operations · Student management · Class scheduling · Responsive UI.
 
 </div>
 
-## 🏆 Hackathons
-
 <div align="center">
 
-### 🏆 Hackathons
+<table>
+<tr>
+<td width="650" align="center">
 
-```text
-✅ ET Hackathon      : Economic Times • 2026
+<h2>🏆 Hackathons</h2>
 
-Focus:
-   • Full-Stack Development
-   • AI & Team Collaboration
-   • Rapid Prototyping
-```
+<hr>
+
+<div style="font-size:16px;">
+
+✅ <b>ET Hackathon</b> • <b>Economic Times 2026</b>
+
+<br><br>
+
+<b>Focus</b>
+
+<br><br>
+
+• Full-Stack Development<br>
+• AI & Team Collaboration<br>
+• Rapid Prototyping
+
+<br><br>
 
 Always looking for the next challenge — reach out to team up!
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/gayatri-sanjay-shinde/">
-<img src="https://img.shields.io/badge/LET'S_COLLABORATE-1a6aad?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/gayatri-sanjay-shinde">
+<img src="https://img.shields.io/badge/LET'S_COLLABORATE-1a6aad?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
+
+</td>
+</tr>
+</table>
+
 </div>
 ## 🏅 Certifications
 
